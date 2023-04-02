@@ -24,7 +24,7 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="atom" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" itle="atom" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" itle="atom" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" itle="atom" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" itle="atom" width="40" height="40"/>&nbsp;
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaksBora&theme=monokai)
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaksBora&theme=monokai)
  
