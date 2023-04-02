@@ -21,4 +21,9 @@
 - 🌎  Fluently speak English
 - 🌎  Learning Deutsch  
 
+
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" title="atom" width="40" height="40"/>&nbsp;
+
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" itle="atom" width="40" height="40"/>&nbsp;
