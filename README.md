@@ -7,5 +7,5 @@
 <div>
 <h2 color="red">🏆Github Profile Trophy</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MaksymBora)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MaksymBora&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
