@@ -6,7 +6,6 @@
 
 
 ## 🏆Github Profile Trophy
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=MaksymBora&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
