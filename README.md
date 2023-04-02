@@ -20,3 +20,5 @@
 - 📪  Reach me by [email](mailto:maxboraod@gmail.com)
 - 🌎  Fluently speak English
 - 🌎  Learning Deutsch  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" title="atom" width="40" height="40"/>&nbsp;
