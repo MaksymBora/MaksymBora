@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=5&color=2702F3AE&center=true&multiline=true&width=800&height=60&lines=I+am+studying+for+Fullstack+developer.+;Student+of+GoIT+Academy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=100&center=true&multiline=true&width=800&height=70&lines=I+am+Studying+for+FullStack+Developer.;Student+of+GoIT+Academy)](https://git.io/typing-svg)
 
 
 ## 🏆Github Profile Trophy
