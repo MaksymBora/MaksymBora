@@ -5,7 +5,7 @@
 
 ### About me
 
-- 👨‍🎓 I'm currently learning **Fronted Dev, Backend Dev**
+- 👨‍🎓 I'm currently learning **Frontend Dev & Backend Dev**
 - 📪 Reach me by [email](mailto:maxboraod@gmail.com)
 - 🌎 Fluently speak English
 - 🌎 Learning Deutsch
