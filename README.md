@@ -5,10 +5,10 @@
 
 ### About me
 
-- 👨‍🎓 I'm currently learning **Frontend Dev & Backend Dev**
+- 👨‍🎓 I'm Junior Frondend Developer
 - 📪 Reach me by [email](mailto:maxboraod@gmail.com)
 - 🌎 Fluently speak English
-- 🌎 Learning Deutsch
+- 🌎 Deutsch B1 Level and Continuing Learning.
 
 ---
 
