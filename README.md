@@ -5,7 +5,8 @@
 
 ### About me
 
-- 👨‍🎓 I'm Junior Frondend Developer
+- 👨🏼‍💻 I'm Junior Frondend Developer
+- 👨‍🎓 I'm Currently learning Node.js.
 - 📪 Reach me by [email](mailto:maxboraod@gmail.com)
 - 🌎 Fluently speak English
 - 🌎 Deutsch B1 Level and Continuing Learning.
@@ -20,7 +21,7 @@
 
 ### Languages and Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="atom" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" itle="atom" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" itle="atom" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" itle="atom" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" itle="atom" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" itle="atom" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" itle="atom" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" itle="atom" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="atom" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" itle="atom" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" itle="atom" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" itle="atom" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" itle="atom" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" itle="atom" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" itle="atom" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" itle="atom" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" itle="atom" width="40" height="40"/>&nbsp;<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="postman" width="40" height="40"/>
 
 ---
 
