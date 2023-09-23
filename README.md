@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Maksym
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&center=true&width=500&height=55&lines=++++++++++++++Welcome+to+my+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&center=true&width=900&height=55&lines=Welcome+to+my+Profile!)](https://git.io/typing-svg)
 
 ### About me
 
