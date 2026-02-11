@@ -1,33 +1,51 @@
-<h1 align="center">Hi there, I'm Maksym
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">
+Hi, I'm Maksym 👋
+</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&center=true&width=900&height=55&lines=Welcome+to+my+Profile!)](https://git.io/typing-svg)
-
-### About me
-
-- 👨🏼‍💻 I'm Junior Frondend Developer
-- 👨‍🎓 I'm Currently learning Node.js.
-- 📪 Reach me by [email](mailto:maxboraod@gmail.com)
-- 🌎 Fluently speak English
-- 🌎 Deutsch B1 Level and Continuing Learning.
+<p align="center">
+Junior Software Developer | C# / .NET | Backend & Web Applications
+</p>
 
 ---
 
-## 🏆Github Profile Trophy
+## 🚀 About Me
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MaksymBora&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+- 💻 Junior Software Developer with hands-on experience in **C# / .NET**
+- ⚙️ Working with **ASP.NET Core, Web API, SQL Server**
+- 🧪 Writing automated tests (xUnit, MSTest) and following Clean Code principles
+- 🔄 Experienced in maintaining and refactoring legacy systems
+- 🌐 Basic Fullstack capabilities with **React & TypeScript**
+- 📚 Continuously improving in modern backend architecture and cloud-based systems
+- 🌍 English – fluent | German – B1 (actively improving)
 
-<br />
-
-### Languages and Tools
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title="atom" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" itle="atom" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" itle="atom" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" itle="atom" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" itle="atom" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" itle="atom" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" itle="atom" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" itle="atom" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" itle="atom" width="40" height="40"/>&nbsp;<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="postman" width="40" height="40"/>&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/>
+Before transitioning into software development, I built a 10+ year career in the maritime and oil & gas industry, where I developed strong leadership, problem-solving, and decision-making skills in high-responsibility environments.
 
 ---
 
-### My Stats
+## 🛠 Tech Stack
 
-<div id="stats">
+### Backend
+C# • .NET • ASP.NET Core • Web API • MSSQL • REST • Entity Framework  
+Unit Testing (xUnit, MSTest) • Dependency Injection • Clean Architecture  
+
+### Frontend
+React • TypeScript • JavaScript • HTML • CSS • Tailwind  
+
+### Tools
+Git • Azure DevOps • Visual Studio 2022 • Rider • Postman  
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MaksymBora&theme=default" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaksymBora&theme=default" />
 </div>
+
+---
+
+## 📬 Contact
+
+📧 Email: maxboraod@gmail.com  
+💼 LinkedIn: (add your LinkedIn link here)
